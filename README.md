@@ -9,11 +9,11 @@ Inventario con el CRUD de un producto y una venta básica.
 #### Base de datos
 
 - Crear una base de datos MySQL con collation utf8mb4_general_ci
-- Usar el script ubicado en ./scripts/kcrm.sql
+- Usar el script ubicado en [proyecto]/scripts/kcrm.sql
 
 #### Configuración de la aplicación
 
-- En el archivo de la ruta ./application/config/development/database.php configurar los datos de coneccion a la base de datos
+- En el archivo de la ruta [proyecto]/application/config/development/database.php configurar los datos de coneccion a la base de datos
 
 ```php
 $db['default']['hostname'] = '';
