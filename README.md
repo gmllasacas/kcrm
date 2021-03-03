@@ -1,6 +1,6 @@
 # Inventario
 
-Inventario básico con PHP (CodeIgniter) y MySQL, con las acciones de:
+Inventario básico con PHP y MySQL, con las acciones de:
 
 - CRUD de un producto
 - Venta simple de un producto
@@ -16,6 +16,7 @@ Inventario básico con PHP (CodeIgniter) y MySQL, con las acciones de:
 ### Aplicación
 
 - PHP 7.4.x
+- Framework Codeigniter 3.x
 
 #### Instalación
 
