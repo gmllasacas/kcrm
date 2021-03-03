@@ -1,0 +1,17 @@
+#Logs
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+#Configuracion y DB
+application/config/config.php
+application/config/database.php
+
+#Documentos creados
+public/documentos/*
+!public/documentos/index.html
+!public/documentos/.htaccess
+
+#Composer
+vendor/
+composer.lock

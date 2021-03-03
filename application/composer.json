@@ -1,0 +1,13 @@
+{
+    "config": {
+        "platform": {
+            "php": "7.0"
+        }
+    },
+    "require": {
+        "curl/curl": "^2.0",
+        "zip": "^2.0",
+        "soap": "^2.0",
+        "bz2": "^2.0",
+    }
+}

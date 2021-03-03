@@ -1,0 +1,10 @@
+{
+	"name": "gz/kcrm",
+	"type": "project",
+	"description": "kcrm with CodeIgniter v3",
+	"require": {
+		"php": "~7.4.0",
+		"ext-json": "*",
+		"ext-mbstring": "*"
+	}
+}
